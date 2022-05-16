@@ -59,4 +59,4 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-baseurl: ""
+baseurl: "/blog"
