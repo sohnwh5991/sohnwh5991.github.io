@@ -60,3 +60,5 @@ plugins:
 #  - jekyll-feed
 
 baseurl: "/blog"
+
+remote_theme: samarsault/plainwhite-jekyll
