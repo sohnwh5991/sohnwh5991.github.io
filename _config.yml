@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Woohun Son
-  tagline: Ph.D. Student at OSU
+  tagline: An Economics Ph.D. Student at OSU
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -59,6 +59,6 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-baseurl: "/blog"
+baseurl: "sohnwh5991.github.io"
 
 remote_theme: samarsault/plainwhite-jekyll
