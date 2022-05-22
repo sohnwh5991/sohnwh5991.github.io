@@ -56,8 +56,8 @@ plainwhite:
 theme: plainwhite
 
 plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+#  - jekyll-seo-tag
+  - jekyll-feed
 
 baseurl: "sohnwh5991.github.io"
 
